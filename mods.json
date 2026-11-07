@@ -1,0 +1,25 @@
+{
+  "name": "CubeLife",
+  "minecraft": "1.12.2",
+  "forge": "14.23.5.2847",
+  "mods": [
+    {
+      "file": "CubeLifeMenu-1.1.0.jar",
+      "size": 2913969,
+      "sha1": "470ae2849e79da1feb08535a602c375228d1fad9",
+      "url": "https://raw.githubusercontent.com/PAPY43/cubelife-launcher/main/mods/CubeLifeMenu-1.1.0.jar"
+    },
+    {
+      "file": "CubeLifePhone-1.0.0.jar",
+      "size": 12117430,
+      "sha1": "343a6d3a67807a53265bace69fb7680ee89cfe17",
+      "url": "https://raw.githubusercontent.com/PAPY43/cubelife-launcher/main/mods/CubeLifePhone-1.0.0.jar"
+    },
+    {
+      "file": "CubeLifeUI-1.0.0.jar",
+      "size": 14923547,
+      "sha1": "c5886b300aa7b355705b795d7cc900e85e3b003b",
+      "url": "https://raw.githubusercontent.com/PAPY43/cubelife-launcher/main/mods/CubeLifeUI-1.0.0.jar"
+    }
+  ]
+}
